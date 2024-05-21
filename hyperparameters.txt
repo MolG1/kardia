@@ -1,0 +1,121 @@
+The randomized hyperparameter settings for the trained models:
+
+New Testament models (Genre 'religion', subgenre 'None', (50 to 120)):
+ 
+ Model 1 - Num Features: 123, Context Size: 10, Tokens: 69,279 
+ Model 2 - Num Features: 107, Context Size: 9, Tokens: 69,279 
+ Model 3 - Num Features: 286, Context Size: 6, Tokens: 69,279 
+ Model 4 - Num Features: 114, Context Size: 8, Tokens: 69,279 
+ Model 5 - Num Features: 175, Context Size: 8, Tokens: 69,279 
+ Model 6 - Num Features: 277, Context Size: 5, Tokens: 69,279 
+ Model 7 - Num Features: 126, Context Size: 9, Tokens: 69,279 
+ Model 8 - Num Features: 277, Context Size: 8, Tokens: 69,279 
+ Model 9 - Num Features: 186, Context Size: 9, Tokens: 69,279 
+ Model 10 - Num Features: 193, Context Size: 5, Tokens: 69,279 
+ Model 11 - Num Features: 293, Context Size: 10, Tokens: 69,279 
+ Model 12 - Num Features: 234, Context Size: 8, Tokens: 69,279 
+ Model 13 - Num Features: 122, Context Size: 6, Tokens: 69,279 
+ Model 14 - Num Features: 173, Context Size: 10, Tokens: 69,279 
+ Model 15 - Num Features: 106, Context Size: 5, Tokens: 69,279 
+ Model 16 - Num Features: 258, Context Size: 9, Tokens: 69,279 
+ Model 17 - Num Features: 293, Context Size: 10, Tokens: 69,279 
+ Model 18 - Num Features: 143, Context Size: 5, Tokens: 69,279 
+ Model 19 - Num Features: 156, Context Size: 5, Tokens: 69,279 
+ Model 20 - Num Features: 246, Context Size: 9, Tokens: 69,279 
+ Model 21 - Num Features: 266, Context Size: 6, Tokens: 69,279 
+ Model 22 - Num Features: 239, Context Size: 5, Tokens: 69,279 
+ Model 23 - Num Features: 199, Context Size: 6, Tokens: 69,279 
+ Model 24 - Num Features: 288, Context Size: 9, Tokens: 69,279 
+ Model 25 - Num Features: 262, Context Size: 10, Tokens: 69,279 
+ Model 26 - Num Features: 119, Context Size: 5, Tokens: 69,279 
+ Model 27 - Num Features: 123, Context Size: 9, Tokens: 69,279 
+ Model 28 - Num Features: 179, Context Size: 8, Tokens: 69,279 
+ Model 29 - Num Features: 236, Context Size: 8, Tokens: 69,279 
+ Model 30 - Num Features: 195, Context Size: 7, Tokens: 69,279 
+
+Septuagint models (Genre 'religion', subgenre 'None', (-250 to -150)):
+
+Model 1 - Num Features: 280, Context Size: 8, Tokens: 301,645
+Model 2 - Num Features: 282, Context Size: 6, Tokens: 301,645
+Model 3 - Num Features: 107, Context Size: 10, Tokens: 301,645
+Model 4 - Num Features: 141, Context Size: 5, Tokens: 301,645
+Model 5 - Num Features: 242, Context Size: 9, Tokens: 301,645
+Model 6 - Num Features: 299, Context Size: 9, Tokens: 301,645
+Model 7 - Num Features: 274, Context Size: 7, Tokens: 301,645
+Model 8 - Num Features: 166, Context Size: 5, Tokens: 301,645
+Model 9 - Num Features: 231, Context Size: 7, Tokens: 301,645
+Model 10 - Num Features: 114, Context Size: 5, Tokens: 301,645
+Model 11 - Num Features: 181, Context Size: 7, Tokens: 301,645
+Model 12 - Num Features: 158, Context Size: 8, Tokens: 301,645
+Model 13 - Num Features: 224, Context Size: 7, Tokens: 301,645
+Model 14 - Num Features: 297, Context Size: 10, Tokens: 301,645
+Model 15 - Num Features: 283, Context Size: 10, Tokens: 301,645
+Model 16 - Num Features: 250, Context Size: 8, Tokens: 301,645
+Model 17 - Num Features: 208, Context Size: 7, Tokens: 301,645
+Model 18 - Num Features: 284, Context Size: 10, Tokens: 301,645
+Model 19 - Num Features: 192, Context Size: 5, Tokens: 301,645
+Model 20 - Num Features: 105, Context Size: 5, Tokens: 301,645
+Model 21 - Num Features: 203, Context Size: 10, Tokens: 301,645
+Model 22 - Num Features: 241, Context Size: 6, Tokens: 301,645
+Model 23 - Num Features: 260, Context Size: 6, Tokens: 301,645
+Model 24 - Num Features: 288, Context Size: 9, Tokens: 301,645
+Model 25 - Num Features: 213, Context Size: 7, Tokens: 301,645
+Model 26 - Num Features: 136, Context Size: 5, Tokens: 301,645
+Model 27 - Num Features: 269, Context Size: 9, Tokens: 301,645
+Model 28 - Num Features: 262, Context Size: 5, Tokens: 301,645
+Model 29 - Num Features: 280, Context Size: 6, Tokens: 301,645
+Model 30 - Num Features: 257, Context Size: 6, Tokens: 301,645
+
+Genre 'None', subgenre 'None', (-800 to -600):
+
+ Model 1 - Num Features: 277, Context Size: 5, Tokens: 150,658 
+ Model 2 - Num Features: 199, Context Size: 5, Tokens: 150,658 
+ Model 3 - Num Features: 189, Context Size: 7, Tokens: 150,658 
+ Model 4 - Num Features: 100, Context Size: 5, Tokens: 150,658 
+ Model 5 - Num Features: 128, Context Size: 9, Tokens: 150,658 
+ Model 6 - Num Features: 263, Context Size: 9, Tokens: 150,658 
+ Model 7 - Num Features: 279, Context Size: 7, Tokens: 150,658 
+ Model 8 - Num Features: 226, Context Size: 7, Tokens: 150,658 
+ Model 9 - Num Features: 115, Context Size: 6, Tokens: 150,658 
+ Model 10 - Num Features: 224, Context Size: 9, Tokens: 150,658 
+ Model 11 - Num Features: 175, Context Size: 5, Tokens: 150,658 
+ Model 12 - Num Features: 188, Context Size: 8, Tokens: 150,658 
+ Model 13 - Num Features: 219, Context Size: 7, Tokens: 150,658 
+ Model 14 - Num Features: 202, Context Size: 9, Tokens: 150,658 
+ Model 15 - Num Features: 159, Context Size: 7, Tokens: 150,658
+
+Genre 'None', subgenre 'None', (-500 to -400):
+
+Model 1 - Num Features: 182, Context Size: 8, Tokens: 454,730
+Model 2 - Num Features: 132, Context Size: 6, Tokens: 454,730
+Model 3 - Num Features: 197, Context Size: 6, Tokens: 454,730
+Model 4 - Num Features: 211, Context Size: 9, Tokens: 454,730
+Model 5 - Num Features: 190, Context Size: 9, Tokens: 454,730
+Model 6 - Num Features: 232, Context Size: 10, Tokens: 454,730
+Model 7 - Num Features: 162, Context Size: 7, Tokens: 454,730
+Model 8 - Num Features: 256, Context Size: 6, Tokens: 454,730
+Model 9 - Num Features: 289, Context Size: 9, Tokens: 454,730
+Model 10 - Num Features: 198, Context Size: 5, Tokens: 454,730
+Model 11 - Num Features: 298, Context Size: 5, Tokens: 454,730
+Model 12 - Num Features: 157, Context Size: 9, Tokens: 454,730
+Model 13 - Num Features: 167, Context Size: 6, Tokens: 454,730
+Model 14 - Num Features: 297, Context Size: 5, Tokens: 454,730
+Model 15 - Num Features: 270, Context Size: 10, Tokens: 454,730
+
+Genre 'None', subgenre 'None', (-399 to -270): 
+
+Model 1 - Num Features: 180, Context Size: 9, Tokens: 1,011,919 
+Model 2 - Num Features: 289, Context Size: 5, Tokens: 1,011,919 
+Model 3 - Num Features: 128, Context Size: 5, Tokens: 1,011,919 
+Model 4 - Num Features: 267, Context Size: 8, Tokens: 1,011,919 
+Model 5 - Num Features: 279, Context Size: 10, Tokens: 1,011,919 
+Model 6 - Num Features: 106, Context Size: 9, Tokens: 1,011,919 
+Model 7 - Num Features: 298, Context Size: 8, Tokens: 1,011,919 
+Model 8 - Num Features: 270, Context Size: 8, Tokens: 1,011,919 
+Model 9 - Num Features: 266, Context Size: 6, Tokens: 1,011,919 
+Model 10 - Num Features: 138, Context Size: 6, Tokens: 1,011,919 
+Model 11 - Num Features: 143, Context Size: 9, Tokens: 1,011,919 
+Model 12 - Num Features: 271, Context Size: 5, Tokens: 1,011,919 
+Model 13 - Num Features: 165, Context Size: 8, Tokens: 1,011,919 
+Model 14 - Num Features: 114, Context Size: 5, Tokens: 1,011,919 
+Model 15 - Num Features: 269, Context Size: 6, Tokens: 1,011,919
