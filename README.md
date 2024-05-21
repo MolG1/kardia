@@ -5,3 +5,5 @@ The stopwords used as well as parts of the code were copied from: https://github
 The trained models are found at: 
 
 The randomized hyperparameter settings for each model are found in "hyperparameters.txt".
+
+(Developed using Colab)
